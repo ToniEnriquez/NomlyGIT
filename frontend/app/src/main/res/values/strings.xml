@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Ombe</string>
+    <string name="delete_session"><u>Delete Session</u></string>
+</resources>

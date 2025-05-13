@@ -1,0 +1,30 @@
+pluginManagement {
+    repositories {
+        google()
+        mavenCentral()
+        gradlePluginPortal()
+    }
+}
+// SHonim test
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        maven { url 'https://jitpack.io' }
+    }
+
+    versionCatalogs {
+        libs {
+            from(files("frontend/gradle/libs.versions.toml"))
+        }
+    }
+}
+
+rootProject.name = "Ombre"
+
+include ':frontend-app'
+project(':frontend-app').projectDir = new File(rootDir, 'frontend/app')
+
+include ':backend-app'
+project(':backend-app').projectDir = new File(rootDir, 'backend/app')

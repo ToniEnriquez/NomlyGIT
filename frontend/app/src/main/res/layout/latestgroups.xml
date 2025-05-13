@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="206dp"
+    android:layout_height="250dp"
+    android:layout_marginEnd="20dp"
+    android:gravity="bottom">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <com.google.android.material.card.MaterialCardView
+            android:layout_width="206dp"
+            android:layout_height="222dp"
+            android:layout_gravity="bottom"
+            app:cardBackgroundColor="@color/color_primary"
+            app:cardCornerRadius="31dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:gravity="bottom"
+                android:padding="16dp">
+
+                <TextView
+                    android:id="@+id/groupName"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="MOFO and DIKS"
+                    android:fontFamily="@font/semi_bold"
+                    android:textColor="@android:color/white"
+                    android:textSize="18sp"
+                    android:layout_marginTop="-50dp"
+                    android:layout_marginBottom="18dp"/>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:gravity="center_vertical"
+                    android:layout_gravity="center">
+
+                    <!-- First Column -->
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:orientation="horizontal"
+                        android:gravity="center">
+
+                        <TextView
+                            android:id="@+id/NoOfMembers"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:text="10"
+                            android:fontFamily="@font/regular"
+                            android:textColor="@android:color/white"
+                            android:textSize="20sp" />
+
+                        <ImageView
+                            android:id="@+id/priceOrageTextView"
+                            android:layout_width="24dp"
+                            android:layout_height="24dp"
+                            android:layout_gravity="center"
+                            android:layout_marginStart="10dp"
+                            android:src="@drawable/groupiconsvg"
+                            app:tint="@color/color_danger"/>
+                    </LinearLayout>
+
+                    <!-- Second Column -->
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:orientation="horizontal"
+                        android:gravity="center">
+
+                        <TextView
+                            android:id="@+id/noOfSessions"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:text="14"
+                            android:fontFamily="@font/regular"
+                            android:textColor="@android:color/white"
+                            android:textSize="20sp" />
+
+                        <ImageView
+                            android:id="@+id/priceOrageTextView2"
+                            android:layout_width="20dp"
+                            android:layout_height="20dp"
+                            android:layout_gravity="center"
+                            android:layout_marginStart="10dp"
+                            android:src="@drawable/groupsessionsvg"
+                            app:tint="@color/color_secondary"/>
+                    </LinearLayout>
+
+                </LinearLayout>
+
+
+
+
+            </LinearLayout>
+        </com.google.android.material.card.MaterialCardView>
+
+        <FrameLayout
+            android:id="@+id/imageView"
+            android:layout_width="140dp"
+            android:scaleType="fitCenter"
+            android:layout_height="140dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="-50dp"
+            android:translationZ="1dp">
+
+            <com.google.android.material.card.MaterialCardView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                app:cardCornerRadius="90dp"
+                app:strokeColor="@color/background_color_primary"
+                app:strokeWidth="6dp">
+
+                <ImageView
+                    android:id="@+id/groupImage"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/tempgroupimg" />
+            </com.google.android.material.card.MaterialCardView>
+        </FrameLayout>
+
+    </FrameLayout>
+</LinearLayout>

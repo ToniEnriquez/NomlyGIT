@@ -1,0 +1,775 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+    <layouts>
+      <layout url="file://$PROJECT_DIR$/frontend/app/src/main/res/font/league_spartan.xml">
+        <config>
+          <theme>@style/Theme.Ombe</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/frontend/app/src/main/res/font/monoton.xml">
+        <config>
+          <theme>@style/Theme.Ombe</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/frontend/app/src/main/res/font/poppins.xml">
+        <config>
+          <theme>@style/Theme.Ombe</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/frontend/app/src/main/res/layout/activity_login_signin.xml">
+        <config>
+          <theme>@style/Theme.Ombe</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/frontend/app/src/main/res/layout/allgroups.xml">
+        <config>
+          <theme>@style/Theme.Ombe</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/frontend/app/src/main/res/layout/allsessions.xml">
+        <config>
+          <theme>@style/Theme.Ombe</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/frontend/app/src/main/res/layout/create_password.xml">
+        <config>
+          <theme>@style/Theme.Ombe</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/frontend/app/src/main/res/layout/dialog_are_you_confirm.xml">
+        <config>
+          <theme>@style/Theme.Ombe</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/frontend/app/src/main/res/layout/dialog_error_400.xml">
+        <config>
+          <theme>@style/Theme.Ombe</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/frontend/app/src/main/res/layout/forgetpassword_otp.xml">
+        <config>
+          <theme>@style/Theme.Ombe</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/frontend/app/src/main/res/layout/fragment_add_card.xml">
+        <config>
+          <theme>@style/Theme.Ombe</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/frontend/app/src/main/res/layout/fragment_allgroups.xml">
+        <config>
+          <theme>@style/Theme.Ombe</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/frontend/app/src/main/res/layout/fragment_allsessions.xml">
+        <config>
+          <theme>@style/Theme.Ombe</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/frontend/app/src/main/res/layout/fragment_badges.xml">
+        <config>
+          <theme>@style/Theme.Ombe</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/frontend/app/src/main/res/layout/fragment_breverages.xml">
+        <config>
+          <theme>@style/Theme.Ombe</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/frontend/app/src/main/res/layout/fragment_button_style.xml">
+        <config>
+          <theme>@style/Theme.Ombe</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/frontend/app/src/main/res/layout/fragment_cart.xml">
+        <config>
+          <theme>@style/Theme.Ombe</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/frontend/app/src/main/res/layout/fragment_charts.xml">
+        <config>
+          <theme>@style/Theme.Ombe</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/frontend/app/src/main/res/layout/fragment_check_out.xml">
+        <config>
+          <theme>@style/Theme.Ombe</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/frontend/app/src/main/res/layout/fragment_components.xml">
+        <config>
+          <theme>@style/Theme.Ombe</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/frontend/app/src/main/res/layout/fragment_create_account.xml">
+        <config>
+          <theme>@style/Theme.Ombe</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/frontend/app/src/main/res/layout/fragment_details.xml">
+        <config>
+          <theme>@style/Theme.Ombe</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/frontend/app/src/main/res/layout/fragment_edit_profile.xml">
+        <config>
+          <theme>@style/Theme.Ombe</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/frontend/app/src/main/res/layout/fragment_home.xml">
+        <config>
+          <theme>@style/Theme.Ombe</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/frontend/app/src/main/res/layout/fragment_inputs.xml">
+        <config>
+          <theme>@style/Theme.Ombe</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/frontend/app/src/main/res/layout/fragment_login.xml">
+        <config>
+          <theme>@style/Theme.Ombe</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/frontend/app/src/main/res/layout/fragment_map_picker.xml">
+        <config>
+          <theme>@style/Theme.Ombe</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/frontend/app/src/main/res/layout/fragment_modal_box.xml">
+        <config>
+          <theme>@style/Theme.Ombe</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/frontend/app/src/main/res/layout/fragment_plan_session.xml">
+        <config>
+          <theme>@style/Theme.Ombe</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/frontend/app/src/main/res/layout/fragment_profile.xml">
+        <config>
+          <theme>@style/Theme.Ombe</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/frontend/app/src/main/res/layout/fragment_reset_password.xml">
+        <config>
+          <theme>@style/Theme.Ombe</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/frontend/app/src/main/res/layout/fragment_swiping.xml">
+        <config>
+          <theme>@style/Theme.Ombe</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/frontend/app/src/main/res/layout/fragment_view_session.xml">
+        <config>
+          <theme>@style/Theme.Ombe</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/frontend/app/src/main/res/layout/fragment_wishlist.xml">
+        <config>
+          <theme>@style/Theme.Ombe</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/frontend/app/src/main/res/layout/group_page_main.xml">
+        <config>
+          <theme>@style/Theme.Ombe</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/frontend/app/src/main/res/layout/home.xml">
+        <config>
+          <theme>@style/Theme.Ombe</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/frontend/app/src/main/res/layout/incomingsessions.xml">
+        <config>
+          <theme>@style/Theme.Ombe</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/frontend/app/src/main/res/layout/item_card.xml">
+        <config>
+          <theme>@style/Theme.Ombe</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/frontend/app/src/main/res/layout/item_category_view.xml">
+        <config>
+          <theme>@style/Theme.Ombe</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/frontend/app/src/main/res/layout/item_featured_view.xml">
+        <config>
+          <theme>@style/Theme.Ombe</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/frontend/app/src/main/res/layout/item_home_slider_view.xml">
+        <config>
+          <theme>@style/Theme.Ombe</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/frontend/app/src/main/res/layout/latestgroups.xml">
+        <config>
+          <theme>@style/Theme.Ombe</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/frontend/app/src/main/res/layout/menu_items.xml">
+        <config>
+          <theme>@style/Theme.Ombe</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/frontend/app/src/main/res/layout/most_ordered_item.xml">
+        <config>
+          <theme>@style/Theme.Ombe</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/frontend/app/src/main/res/layout/on_bording_item_layout.xml">
+        <config>
+          <theme>@style/Theme.Ombe</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/frontend/app/src/main/res/layout/onboarding.xml">
+        <config>
+          <theme>@style/Theme.Ombe</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/frontend/app/src/main/res/layout/ongoing_item.xml">
+        <config>
+          <theme>@style/Theme.Ombe</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/frontend/app/src/main/res/layout/otp_layout.xml">
+        <config>
+          <theme>@style/Theme.Ombe</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/frontend/app/src/main/res/layout/splashscreen.xml">
+        <config>
+          <theme>@style/Theme.Ombe</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/frontend/app/src/main/res/layout/welcome.xml">
+        <config>
+          <theme>@style/Theme.Ombe</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/frontend/app/src/main/res/layout/wishlist_item.xml">
+        <config>
+          <theme>@style/Theme.Ombe</theme>
+        </config>
+      </layout>
+    </layouts>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0a3b1f9b-de43-4f46-8d61-48d58abdc98c" name="Changes" comment="add cite comments stuff">
+      <change beforePath="$PROJECT_DIR$/.gradle/8.10.2/dependencies-accessors/1ce8fbe9cd5f67467fbc6471b3e35c77ab6be457/metadata.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.10.2/dependencies-accessors/1ce8fbe9cd5f67467fbc6471b3e35c77ab6be457/metadata.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.10.2/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.10.2/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.10.2/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.10.2/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.10.2/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.10.2/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.10.2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.10.2/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.10.2/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.10.2/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/nomlybackend/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/backend/nomlybackend/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[DeviceId(pluginId=LocalEmulator, isTemplate=false, identifier=path=/Users/shonim/.android/avd/Pixel_8_API_35.avd)]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/app">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Ombre" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="resourceFile" />
+        <option value="Interface" />
+        <option value="layoutResourceFile" />
+        <option value="valueResourceFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ElaVnla&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ElaVnla/Nomly.git&quot;,
+    &quot;accountId&quot;: &quot;820cf680-7b50-47c7-adb5-c78b33732bde&quot;
+  },
+  &quot;recentNewPullRequestHead&quot;: {
+    &quot;server&quot;: {
+      &quot;useHttp&quot;: false,
+      &quot;host&quot;: &quot;github.com&quot;,
+      &quot;port&quot;: null,
+      &quot;suffix&quot;: null
+    },
+    &quot;owner&quot;: &quot;ElaVnla&quot;,
+    &quot;repository&quot;: &quot;Nomly&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2u8501mkOMNwSg64lriI3xjrqfM" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Android App.app.executor&quot;: &quot;Run&quot;,
+    &quot;Android App.frontend-app.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NomlybackendApplication.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ScreenRecorder.SavePath&quot;: &quot;/Users/shonim/Movies&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;com.google.services.firebase.aqiPopupShown&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;shonimV7&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/shonim/AndroidStudioProjects/NomlyShonimV6&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.17&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;device.mirroring&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\erika\AndroidStudioProjects\Nomly5\frontend\app\src\main\res\layout" />
+      <recent name="C:\Users\erika\AndroidStudioProjects\Nomly2\frontend\app\src\main\res\drawable" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\erika\AndroidStudioProjects\Nomly\frontend\app\src\main\res\drawable" />
+      <recent name="C:\Users\erika\AndroidStudioProjects\Nomly2\frontend\app\src\main\res\layout" />
+      <recent name="C:\Users\erika\AndroidStudioProjects\Nomly" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.NomlybackendApplication">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="Ombe.app" />
+      <option name="ANDROID_RUN_CONFIGURATION_SCHEMA_VERSION" value="1" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="ALLOW_ASSUME_VERIFIED" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="RESTORE_ENABLED" value="false" />
+      <option name="RESTORE_FILE" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Hybrid>
+      <Java>
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Java>
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="frontend-app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="Ombre.frontend-app" />
+      <option name="ANDROID_RUN_CONFIGURATION_SCHEMA_VERSION" value="1" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="ALLOW_ASSUME_VERIFIED" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="RESTORE_ENABLED" value="false" />
+      <option name="RESTORE_FILE" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Hybrid>
+      <Java>
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Java>
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NomlybackendApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nomlybackend.nomlybackend.NomlybackendApplication" />
+      <module name="nomlybackend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nomlybackend.nomlybackend.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.NomlybackendApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.NomlybackendApplication" />
+        <item itemvalue="Application.NomlybackendApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a3b1f9b-de43-4f46-8d61-48d58abdc98c" name="Changes" comment="" />
+      <created>1741617138032</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741617138032</updated>
+    </task>
+    <task id="LOCAL-00001" summary="testing">
+      <option name="closed" value="true" />
+      <created>1741618202690</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1741618202690</updated>
+    </task>
+    <task id="LOCAL-00002" summary="override everything please WORK">
+      <option name="closed" value="true" />
+      <created>1742055144641</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1742055144641</updated>
+    </task>
+    <task id="LOCAL-00003" summary="lastupdate">
+      <option name="closed" value="true" />
+      <created>1742056283828</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1742056283828</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Set up, login sign in and halfway homepage">
+      <option name="closed" value="true" />
+      <created>1742354577509</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1742354577509</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Frontend API Services">
+      <option name="closed" value="true" />
+      <created>1744222017520</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1744222017520</updated>
+    </task>
+    <task id="LOCAL-00006" summary="updatesmt">
+      <option name="closed" value="true" />
+      <created>1744222410724</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1744222410724</updated>
+    </task>
+    <task id="LOCAL-00007" summary="api for homepage, allgroups and allsessions done">
+      <option name="closed" value="true" />
+      <created>1744233474771</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1744233474771</updated>
+    </task>
+    <task id="LOCAL-00008" summary="IT FINALLY WORKED">
+      <option name="closed" value="true" />
+      <created>1744287048011</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1744287048011</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Updates EateriesPhotos table, added /get-images/{eateryId}">
+      <option name="closed" value="true" />
+      <created>1744562795660</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1744562795660</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Updates EateriesPhotos table, added /get-images/{eateryId}">
+      <option name="closed" value="true" />
+      <created>1744736411351</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1744736411351</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Updates EateriesPhotos table, added /get-images/{eateryId}">
+      <option name="closed" value="true" />
+      <created>1744736416734</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1744736416734</updated>
+    </task>
+    <task id="LOCAL-00012" summary="dropdown, encryption, cleanup, password validation">
+      <option name="closed" value="true" />
+      <created>1745785454978</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1745785454978</updated>
+    </task>
+    <task id="LOCAL-00013" summary="add cite comments stuff">
+      <option name="closed" value="true" />
+      <created>1745825651002</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1745825651002</updated>
+    </task>
+    <task id="LOCAL-00014" summary="add cite comments stuff">
+      <option name="closed" value="true" />
+      <created>1745825834091</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1745825834091</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="testingBranch" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="ErikaNewUpdates" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="testing" />
+    <MESSAGE value="Override Everything" />
+    <MESSAGE value="override everything please WORK" />
+    <MESSAGE value="lastupdate" />
+    <MESSAGE value="Set up, login sign in and halfway homepage" />
+    <MESSAGE value="Frontend API Services" />
+    <MESSAGE value="updatesmt" />
+    <MESSAGE value="api for homepage, allgroups and allsessions done" />
+    <MESSAGE value="IT FINALLY WORKED" />
+    <MESSAGE value="left to clean : profile, editprofile, createpassowrd, resestpassowrdotp,resetpassword" />
+    <MESSAGE value="dropdown, encryption, cleanup, password validation" />
+    <MESSAGE value="add cite comments stuff" />
+    <MESSAGE value="Updates EateriesPhotos table, added /get-images/{eateryId}" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updates EateriesPhotos table, added /get-images/{eateryId}" />
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="jdk.internal.net.http.HttpResponseImpl" memberName="version" />
+        <PinnedItemInfo parentTag="com.nomlybackend.nomlybackend.model.eateries.PlacesDTO" memberName="places" />
+        <PinnedItemInfo parentTag="jdk.internal.net.http.HttpResponseImpl" memberName="body" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+  <component name="play_dynamic_filters_status">
+    <option name="appIdToCheckInfo">
+      <map>
+        <entry key="com.w3itexperts.ombe">
+          <value>
+            <CheckInfo lastCheckTimestamp="1745768301188" />
+          </value>
+        </entry>
+        <entry key="com.w3itexperts.ombe.test">
+          <value>
+            <CheckInfo lastCheckTimestamp="1745768301188" />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
